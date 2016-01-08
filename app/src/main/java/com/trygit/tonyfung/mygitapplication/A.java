@@ -8,7 +8,9 @@ import android.util.Log;
 public class A {
 
     public void p1finction(){
-        Log.e("p1---","我是P1我牛逼");
+
+        Log.e("p1---", "我是P2我最牛逼 最终MERGE");
+
     }
 
 }
