@@ -6,9 +6,9 @@ import android.util.Log;
  * Created by Administrator on 2016/1/8.
  */
 public class A {
-  public void log(){
 
-      Log.e("---A---","这里就是这个样子");
-  }
+    public void p1finction(){
+        Log.e("p1---","我是P1我牛逼");
+    }
 
 }
