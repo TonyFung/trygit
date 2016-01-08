@@ -8,7 +8,7 @@ import android.util.Log;
 public class A {
   public void log(){
 
-      Log.e("---A---","P1修改了这里");
+      Log.e("---A---","这里就是这个样子");
   }
 
 }
